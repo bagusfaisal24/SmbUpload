@@ -1,0 +1,8 @@
+app:
+  smb:
+    location: "smb://localhost:8080/share-folder-example"
+    username: "root"
+    password: "root"
+server:
+  port: 8080
+
